@@ -1,0 +1,54 @@
+
+
+.google-maps {
+        position: relative;
+        padding-bottom: 20%; // This is the aspect ratio
+        height: 0;
+        overflow: hidden !important;
+    }
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+
+.panel_m p {
+    padding-top: 100px !important;
+}
+
+.panel_v p {
+    padding-top: 80px !important;
+}
+
+.panel_c p {
+    padding-top: 30px !important;
+}
+
+
+
+.testimony_vid {
+     display: block;
+     position: relative;
+     overflow: hidden;
+     width: 90%;
+     height: 250px;
+     border-radius: 20px;
+     box-shadow:4px 4px 0px rgba(103, 102, 102, 0.2);
+}
+
+.form_mar {
+    margin-top: 15px !important;
+}
+
+.radio_mar {
+    margin-left: 0px !important;
+}
+
+
+.jobs {
+    margin-top: 20px !important;
+    border-bottom: 2px dashed !important;
+}
